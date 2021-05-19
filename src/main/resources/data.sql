@@ -1,0 +1,12 @@
+insert into person_entity (id, name) values (1, 'Gabriel');
+insert into person_entity (id, name) values (2, 'Felipe');
+insert into person_entity (id, name) values (3, 'Guina');
+insert into person_entity (id, name) values (4, 'Ines');
+insert into person_entity (id, name) values (5, 'Odete');
+insert into person_entity (id, name) values (6, 'Lara');
+insert into person_entity (id, name) values (7, 'Gui');
+insert into person_entity (id, name) values (8, 'Pedro');
+insert into person_entity (id, name) values (9, 'Mariana');
+insert into person_entity (id, name) values (10, 'Daniel');
+insert into person_entity (id, name) values (11, 'Dudu');
+insert into person_entity (id, name) values (12, 'Parmera');
